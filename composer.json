@@ -1,0 +1,12 @@
+{
+    "name": "williammoura/arrayenterprisevanilla",
+    "description": "Array enterprise em php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "WilliamMoura",
+            "email": "williammoura908@gmail.com"
+        }
+    ],
+    "require": {}
+}
